@@ -18,3 +18,6 @@ Riccardo Maldera
 
 
 Alex Aimino
+
+
+Simone Oliva
