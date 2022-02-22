@@ -5,6 +5,4 @@ Riccardo Maldera
 Cristian Nicolotti
 Davide Sabetta
 Giacomo Quaglia
-
-
-Daniele Quasimodo
+Marcello Borio
