@@ -4,3 +4,4 @@ Simone Oliva
 Riccardo Maldera
 Cristian Nicolotti
 Davide Sabetta
+Giacomo Quaglia
