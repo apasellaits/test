@@ -1,4 +1,7 @@
 # Antonello
-# Lorenzo Parisi
-Alberto Alineri
-Avondo Lorenzo
+Pietro Chiartano
+Simone Oliva
+
+
+
+Riccardo Maldera
