@@ -1,3 +1,2 @@
 # Antonello
-Pietro Chiartano
-Simone Oliva
+#Simone Stella
