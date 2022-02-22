@@ -7,6 +7,4 @@ Davide Sabetta
 Giacomo Quaglia
 
 
-
-
-Matteo Mezzanotte
+Andrea Cirillo
