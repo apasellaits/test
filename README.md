@@ -5,4 +5,4 @@ Riccardo Maldera
 Cristian Nicolotti
 Davide Sabetta
 Giacomo Quaglia
-Marcello Borio
+Sara Morritti
