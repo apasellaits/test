@@ -8,7 +8,7 @@
 3. Fare un branch (dentro sourcetree) "COGNOME-finito" (esempio PASELLA-finito)
 4. creare un file nuovo nella cartella del progetto
 5. Fare add&commit  (dentro sourcetree)
-6. Fare push (dentro source tree)
+6. Fare push (dentro github desktop)
 
 
 
