@@ -1,5 +1,8 @@
 1. Installare GithubDesktop
 2. Autenticarsi su github (dentro gihtub desktop)
+
+
+
 3. Clonare  (dentro gihtub desktop) il progetto test (ricordarsi la cartella dove viene salvato)
 
 
